@@ -1,6 +1,6 @@
 # What?
 
-A Google Chrome extension that replaces all occurrences of the terms master and slave for leader and follower respectively.
+A Google Chrome extension that replaces all occurrences of the terms master and slave on a webpage for leader and follower respectively.
 
 # How?
 
